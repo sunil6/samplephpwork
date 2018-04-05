@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>Building First PHP application<h1>
+<h1>This is my PHP Test application<h1>
 
 <?php
-echo "Version:skill-labs-training";
+echo "Version: 1.0";
 ?>
 
 </body>
