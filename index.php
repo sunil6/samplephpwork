@@ -5,7 +5,7 @@
 <h1>This is AWS class<h1>
 
 <?php
-echo "Version: skill-labs-trainig";
+echo "Version: 2.5";
 ?>
 
 </body>
